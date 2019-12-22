@@ -1,6 +1,6 @@
 # shftlock - ancient DOS TSR 
 
-ShftLock was the first 80x86 assembly code I wrote. It had a simple purpose - turn a DOS keyboard layout into one that 
+ShftLock was the first (professional) 80x86 assembly code I wrote. It had a simple purpose - turn a DOS keyboard layout into one that 
 behaved like a typewriter. Many people won't remember what that means (and probably assume computer keyboards are much
 the same as typewriters) but in fact there were enough differences that it created issues for professional typists who
 were migrating from manual typewriters (and for that matter, dedicated word processing workstations, which mimicked
